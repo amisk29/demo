@@ -5,7 +5,7 @@ import Home from './Home';
 import Orders from './Orders';
 
 const App = () => {
-// hi this is srikant 
+
   return (
     <div>
       <BrowserRouter>
